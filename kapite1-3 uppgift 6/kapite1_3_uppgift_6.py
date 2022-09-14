@@ -1,0 +1,5 @@
+tal1=int(input())
+tal2= int(input())
+tal3=int(input())
+summa=(tal1 + tal2 + tal3)
+print("======= \n",summa)
